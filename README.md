@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-# Proyecto FEPI
-
-Este es el repositorio para el proyecto de FEPI
-
-## Politicas para contribuir al repo
-
-***NO REALICEN CAMBIOS DIRECTAMENTE SOBRE MAIN***
-
-***NO OCUPAR REBASE***
-
-Favor de crear una rama por historia de usuario, y en el caso que se este trabajando con más de un integrante, será crear otra rama por persona. Ejemplo:
-
-```bash
-git branch HU001Pepe
-```
-
-Cuando terminen con la historia, realicen un push.
-
-```bash
-git puch origin HU001Pepe
-```
-
-Y yo me encargaré de hacer el **merge** con el main.
-=======
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -120,4 +95,3 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
->>>>>>> da9a01c (Primer commit)
