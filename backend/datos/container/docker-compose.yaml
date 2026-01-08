@@ -1,0 +1,10 @@
+services:
+  db:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5430:5432"
+    env_file: db.env
+    volumes:
+      - ./data:/var/lib/postgresql/18/docker
